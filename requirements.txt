@@ -1,4 +1,4 @@
-# Runtime dependencies for the CoStream FastAPI backend.
 fastapi
-uvicorn
+uvicorn[standard]
 python-dotenv
+websockets
